@@ -1,0 +1,20 @@
+# Python dependencies for Cryptiq Telegram Bot
+# Install with: pip install -r requirements.txt
+
+# Telegram Bot Framework
+python-telegram-bot==22.1
+
+# Data Visualization
+matplotlib>=3.7.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Timezone Handling
+pytz>=2023.3
+
+# OpenAI API for AI Features
+openai>=1.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
